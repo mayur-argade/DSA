@@ -7,8 +7,8 @@ public class KthMaxMin {
         int[] array = {0, 1, 2, 3, 4, 5, 6, 7};
 
         int k = 2;
-        int min = array[0];
-        int max = array[0];
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
         int minCounter = 0;
         int maxCounter = 0;
 
