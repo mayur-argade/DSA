@@ -1,22 +1,22 @@
 # Placement Preparation
 
-- [ ]  Arrays
-- [ ]  Array basics and manipulation
-    - [ ]  Array creation and initialization
+- [x]  Arrays
+- [x]  Array basics and manipulation
+    - [x]  Array creation and initialization
         - Write a program to create an array of integers and initialize it with values [1, 2, 3, 4, 5].
-    - [ ]  Accessing array elements
+    - [x]  Accessing array elements
         - Write a program to access and print the elements of an array in reverse order.
     - [ ]  Modifying array elements
         - Write a program to replace all occurrences of a specific value in an array with another value.
     - [ ]  Array length and resizing
         - Write a program to find the length of an array without using the built-in length property.
-- [ ]  Array searching
-    - [ ]  Linear search
+- [x]  Array searching
+    - [x]  Linear search
         - Write a program to search for a given element in an array using linear search.
-    - [ ]  Binary search
+    - [x]  Binary search
         - Write a program to search for a given element in a sorted array using binary search.
 - [ ]  Array sorting algorithms
-    - [ ]  Bubble sort
+    - [x]  Bubble sort
         - Write a program to sort an array of integers using bubble sort in ascending order.
     - [ ]  Selection sort
         - Write a program to sort an array of integers using selection sort in descending order.
@@ -25,7 +25,7 @@
 - [ ]  Array operations and algorithms
     - [ ]  Finding duplicates in an array
         - Write a program to find all duplicate elements in an array and print them.
-    - [ ]  Finding the maximum or minimum element in an array
+    - [x]  Finding the maximum or minimum element in an array
         - Write a program to find the maximum element in an array of integers.
     - [ ]  Array rotation
         - Write a program to rotate the elements of an array by a given number of positions to the left.
