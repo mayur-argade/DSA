@@ -18,7 +18,7 @@
 - [ ]  Array sorting algorithms
     - [x]  Bubble sort
         - Write a program to sort an array of integers using bubble sort in ascending order.
-    - [ ]  Selection sort
+    - [x]  Selection sort
         - Write a program to sort an array of integers using selection sort in descending order.
     - [ ]  Insertion sort
         - Write a program to sort an array of strings using insertion sort in lexicographic order.
